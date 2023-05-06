@@ -1,0 +1,181 @@
+
+
+.link-margin {
+
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color:#5DB7CC; ;
+ 
+
+}
+
+.link-margin_offer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 50px;
+  background-color:#04586C; ;
+  height: 254px;
+  width: 178px;
+  text-align: center;
+
+
+}
+
+.link-margin_offer_gold {
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 10px;
+margin-left: 50px;
+background-color:#04586C; ;
+height: 254px;
+width: 178px;
+text-align: center;
+border:3px solid #FFD700 
+
+}
+
+.link-margin_top_bot {
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+h3, .h3{
+  font-size: 18px;
+  font-weight: normal;
+  display: inline;
+}
+.li {
+  display:list-item;
+}
+
+
+.container-fluid > .container div{ 
+    border:1px solid black;
+    padding-bottom: 20px ;
+}
+
+
+
+.border_gold > .container div{ 
+  border:5px solid #FFD700;
+  padding-bottom: 20px ;
+}
+
+.fontIguess{ 
+ white-space: nowrap;
+ color: white;
+}
+
+.domain-pricing {
+font-size: 24px;
+color: white;
+}
+.domain-pricing strong {
+font-size: 32px;
+}
+
+.center {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.close {
+        margin-top: 0;
+        margin-bottom: 0;
+        line-height: 1.5; /* or any other value greater than 1 */
+        color: white;
+      }
+
+
+.div_center {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+
+
+.link-margin {
+
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color:#5DB7CC; ;
+ 
+
+}
+
+
+.link-margin_offer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 50px;
+  background-color:#04586C; ;
+  height: 254px;
+  width: 178px;
+  text-align: center;
+  
+
+}
+
+.link-margin_web_hosting {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 50px;
+  background-color:#04586C; ;
+  height: 236px;
+  width: 182px;
+  text-align: center;
+  
+
+}
+
+.link-margin_top_bot {
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.container-fluid > .container div{ 
+    border:1px solid black;
+    padding-bottom: 20px ;
+   
+}
+
+.fontIguess{ 
+ white-space: nowrap;
+ color: white;
+}
+
+.domain-pricing {
+font-size: 24px;
+color: white;
+}
+.domain-pricing strong {
+font-size: 32px;
+}
+
+.center {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.close {
+        margin-top: 0;
+        margin-bottom: 0;
+        line-height: 1.5; /* or any other value greater than 1 */
+        color: white;
+      }
+
+.close_black {
+margin-top: 0;
+margin-bottom: 0;
+line-height: 1.5; /* or any other value greater than 1 */
+}
+
